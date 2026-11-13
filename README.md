@@ -4,7 +4,7 @@
 
 * **Name:** Ruyi Gai
 * **Student ID:** 700778329
-* **Course:** CS5720 Neural Network and Deep Learning
+* **Course:** CS5760 Natural Language Processing
 * **Semester:** Fall 2026
 * **University:** University of Central Missouri
 
