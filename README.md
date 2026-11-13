@@ -61,8 +61,8 @@ The notebook applies spaCy's `en_core_web_sm` model to the provided sentence abo
 Two examples from the saved output are shown below.
 
 ```text
-Text: LeBron James | Label: PERSON | Start: 0 | End: 12
-Text: 2020 | Label: DATE | Start: 90 | End: 94
+Text: LeBron James | Label: PERSON | Start: 1 | End: 13
+Text: 2020 | Label: DATE | Start: 91 | End: 95
 ```
 
 The written answers compare named entity recognition with part-of-speech tagging and describe applications of entity recognition.
